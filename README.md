@@ -1,3 +1,3 @@
-# Hospital-Management-System
+# Chattbot System
 <br>
 Author = Pallavi Gautam
